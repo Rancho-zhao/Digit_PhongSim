@@ -8,12 +8,12 @@ This is a DIGIT-modified version of [GelSight simulator](https://github.com/danf
 
 We have tested the codes in Ubuntu 18.04, and the python libs we use are as following:
 
-`
+```
 mujoco == 2.2.2;  
 gym == 0.25.0;
 numpy == 1.23.3;
 scipy == 1.8.1;
-`
+```
 
 ## Usage
 
